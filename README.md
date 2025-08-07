@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Sangeetha A 👋
 
-<!--
-**sangeethaa-dev/sangeethaa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate passionate about Web Development and Full Stack technologies.
 
-Here are some ideas to get you started:
+💻 I work with:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Java, Spring Boot
+- Database: MySQL
+- Other Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm currently building projects to improve my skills and aiming to become a Full Stack Developer by the end of this year.
+
+📫 Connect with me:
+- 📧 Email: sangeetha1952003@example.com
+- 💼LinkedIn: [Sangeetha Anbu](https://www.linkedin.com/in/sangeethaanbu)
+- 🌐 Portfolio: [sangeethaa‑dev](https://sangeethaa-dev.github.io/Portfolio-sangee/)
+
+
+
