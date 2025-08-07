@@ -11,7 +11,7 @@ Hi, I'm Sangeetha A 👋
 🚀 I'm currently building projects to improve my skills and aiming to become a Full Stack Developer by the end of this year.
 
 📫 Connect with me:
-- 📧 Email: sangeetha1952003@example.com
+- 📧 Email: sangeetha1952003@gmail.com
 - 💼LinkedIn: [Sangeetha Anbu](https://www.linkedin.com/in/sangeethaanbu)
 - 🌐 Portfolio: [sangeethaa‑dev](https://sangeethaa-dev.github.io/Portfolio-sangee/)
 
